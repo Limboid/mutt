@@ -6,8 +6,7 @@ Why select just one when you can cross-breed multiple languages? Mutt is a metam
 
 - specify custom lexers and parsers
 - add your own (not just context-free) patterns to the grammar
-- directly manipulate concrete syntax trees
-- directly manipulate abstract syntax trees (yes, you can have more than one AST per program)
+- directly manipulate concrete and abstract syntax trees (yes, you can have more than one CST/AST per program)
 
 Just think about the mutts you can breed and tricks you can teach with this power. Mutt is excited to meet you and wants to play!
 
