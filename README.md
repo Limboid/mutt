@@ -1,12 +1,6 @@
 # Mutt Programming Language
 
-[Picture of Bart]
-[link to Bar-Bart YouTube video]
-
-Bar bar Bart
-You're so smart
-You found a special place in everybody's heart
-
+<img src="/assets/img/logo.png" width="1rem" />
 
 Why select just one when you can cross-breed multiple languages? Mutt is a metamorphic programming language that inherits from a blend of Python, yaml, JavaScript, and other languages. However unlike any one of these, Mutt is not confined to a single cage. He gets to switch between languages on demand. Mutt is able to enjoy this freedom because he gives his master (you) direct control of the interpretter and since he performs just-in-time lexing, parsing, semantic analysis, and execution, that means you can:
 
