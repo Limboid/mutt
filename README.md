@@ -1,4 +1,4 @@
-# Mutt Programming Language
+# Mutt 🐶 Programming Language
 
 <img src="assets/img/logo.png" alt="Mutt Programming Language logo" width="100" height="100" align="left" style="float: left; margin: 1rem;">
 
